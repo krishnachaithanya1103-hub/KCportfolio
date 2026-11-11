@@ -26,3 +26,7 @@ CONTENT NOTES:
 - Federal-sector relationships are described generically because specific organization names were not supplied.
 - Team size (30 total; 15 domestic) is based on information supplied by the user.
 - Technology skills are framed as staffing talent domains, not claims of internal engineering certifications.
+
+
+PROFILE PHOTO
+The professional portrait is included at assets/krishna-professional.jpg and is already linked from the homepage.
